@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning DSA , DevOps
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with Placements in FAANG
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](sakshiravi464@gmail.com)
+- 📫 How to reach me : sakshiravi464@gmail.com
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I'm a Content Creator.
 
